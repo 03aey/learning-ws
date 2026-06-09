@@ -4,17 +4,17 @@
 
 ## Tech Stack
 
--   **Frontend**: React Js, Vite, Tailwind CSS
--   **Backend**: Node Js, Express Js, TypeScript, WebSocket
--   **Database**: MongoDB
+- **Frontend**: React Js, Vite, Tailwind CSS
+- **Backend**: Node Js, Express Js, TypeScript, WebSocket
+- **Database**: MongoDB
 
 ## Features
 
--   Create chat rooms with unique links.
--   Custom username support.
--   Real-time communication using WebSocket.
--   Responsive UI with testimonials, headers, and contact sections.
--   Dynamic room creation and user management.
+- Create chat rooms with unique links.
+- Custom username support.
+- Real-time communication using WebSocket.
+- Responsive UI with testimonials, headers, and contact sections.
+- Dynamic room creation and user management.
 
 ## Project Structure
 
@@ -29,14 +29,14 @@ And a `Readme.md` for guidance.
 
 ### Prerequisites
 
--   Node.js
--   npm / yarn
+- Node.js
+- npm / yarn
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/03aey/learning-ws.git
-cd Learning-ws
+cd learning-ws
 ```
 
 ### 2. Backend Setup
@@ -93,7 +93,6 @@ cd Learning-ws
 
 1. Open your browser and go to `localhost:5173`
 2. You will see a homepage with the following sections -
-
     - **Header and Footer**: Navigation and contact details.
     - **Featured**: Special highlights and features of Chat Nexus.
     - **Testimonials**: User feedback and app highlights.
@@ -107,16 +106,16 @@ cd Learning-ws
 
 ![Create room](./frontend/public/create-room.png)
 
--   Provide a **custom name** (optional) and copy the generated room link.
+- Provide a **custom name** (optional) and copy the generated room link.
 
 ![Created room](./frontend/public/room-created.png)
 
--   Share the link with others or enter the room to start chatting in real time.
--   After Click on `Go to room` You have to enter you name. Then click on `Enter Chat Room`
+- Share the link with others or enter the room to start chatting in real time.
+- After Click on `Go to room` You have to enter you name. Then click on `Enter Chat Room`
 
 ![Enter username](./frontend/public/name.png)
 
--   Then the final chat room look like this 👇
+- Then the final chat room look like this 👇
 
 ![Create room](./frontend/public/chat.png)
 
@@ -139,3 +138,10 @@ chat-nexus/
 │
 └── README.md          # Project-level documentation
 ```
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-03aey-181717?logo=github&logoColor=white)](https://github.com/03aey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2F03aey-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/03aey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-03aey.vercel.app-000000?logo=vercel&logoColor=white)](https://03aey.vercel.app)
+[![Linktree](https://img.shields.io/badge/Linktree-03aey-43E55E?logo=linktree&logoColor=white)](https://linktr.ee/03aey)
