@@ -35,7 +35,7 @@ And a `Readme.md` for guidance.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/alok-x0s1/Learning-ws.git
+git clone https://github.com/03aey/learning-ws.git
 cd Learning-ws
 ```
 
@@ -91,7 +91,7 @@ cd Learning-ws
 
 ### 4. Running the Application
 
-1. Open your browser and go to `http://localhost:5173`
+1. Open your browser and go to `localhost:5173`
 2. You will see a homepage with the following sections -
 
     - **Header and Footer**: Navigation and contact details.
